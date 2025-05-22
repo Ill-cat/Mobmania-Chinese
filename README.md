@@ -82,7 +82,8 @@ ooc
 2. 把上上一步取得的yy文件还有这次的py文件放在同一个文件夹
 3. 进文件夹运行py文件  
    3.1 这一步会根据yy文件按顺序生成字符串,保留备用  
-   3.2 或者你就用font文件夹里的font_init.js文件
+   3.2 不同的终端的差异可能导致你在复制的时候产生不必要的空格  
+   3.3 或者你就用font文件夹里的font_init.js文件  
 4. 用UndertaleModTool打开data.win文件(如果你忘了可以把之前步骤的东西都删了
 5. 上边工具栏[Scripts -> Community Scripts -> ImportAllStringsBetter.csx],选择你汉化后的游戏文本文件,导入  
    5.1 如果你用的是我的文件,先执行第6步
