@@ -1,0 +1,37 @@
+{
+    "version": "2.0.0",
+    "tasks": [
+        {
+            "label": "build bsdiff",
+            "type": "shell",
+            "command": "C:/msys64/mingw64/bin/gcc.exe",
+            "args": [
+                "-O2",
+                "-mconsole",
+                "-o",
+                "${workspaceFolder}/bsdiff.exe",
+                "${workspaceFolder}/bsdiff.c",
+                "-lbz2"
+            ],
+            "group": "build",
+            "problemMatcher": ["$gcc"],
+            "detail": "编译 bsdiff"
+        },
+        {
+            "label": "build bspatch",
+            "type": "shell",
+            "command": "C:/msys64/mingw64/bin/gcc.exe",
+            "args": [
+                "-O2",
+                "-mconsole",
+                "-o",
+                "${workspaceFolder}/bspatch.exe",
+                "${workspaceFolder}/bspatch.c",
+                "-lbz2"
+            ],
+            "group": "build",
+            "problemMatcher": ["$gcc"],
+            "detail": "编译 bspatch"
+        }
+    ]
+}
