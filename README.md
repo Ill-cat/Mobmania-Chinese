@@ -28,6 +28,20 @@
 这个方式汉化产生的后果我不负责嘻嘻  
 有些地方可能汉化的文本不对或是还没汉化但我懒了  
 
+## 补丁汉化
+效果是一样的,但不用再下200MB的文件了,之后的汉化补丁也会以这个方式发布  
+
+1. 下载对应的补丁  
+2. 解压到对应的游戏目录下  
+3. 把对应的三个文件拖出来  
+.  
+├── Install.bat  
+├── bspatch.exe  
+├── data.patch  
+└── data.win  
+4. 运行Install.bat文件  
+5. 提示完成即可  
+
 ### 翻译内容注意
 机翻  
 不必要机翻但是使用了机翻口吻  
@@ -105,3 +119,8 @@ ooc
    8.2 如果你用了其他的字体,或者使用了其他的字体范围,不要用font.init.js改
 9. 至此,保存一下游戏就算汉化完了,可以进游戏看一下效果  
     9.1 这里再用[Scripts -> Community Scripts -> ExportAllStringsBetter.csx]导出一下就和我用的String.txt文件一样了
+### 生成汉化补丁
+1. 如果你要创建汉化补丁,需要下载bsdiff文件夹里的bsdiff.exe,bspatch.exe和install.bat文件  
+   1.1 感谢[bsdiff-win](https://github.com/reitowo/bsdiff-win),虽然大家好像都知道有这个东西用但我找了半天
+2. 终端运行 bsdiff/bsdiff.exe 原data.win 汉化后data.win data.patch
+3. 生成完毕后bspatch.exe+install.bat+data.patch即为一个汉化补丁
