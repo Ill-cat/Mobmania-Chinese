@@ -100,7 +100,7 @@ ooc
    3.3 或者你就用font文件夹里的font_init.js文件  
 4. 用UndertaleModTool打开data.win文件(如果你忘了可以把之前步骤的东西都删了
 5. 上边工具栏[Scripts -> Community Scripts -> ImportAllStringsBetter.csx],选择你汉化后的游戏文本文件,导入  
-   5.1 如果你用的是我的文件,先执行第6步
+   5.1 如果你用的是我的文件,先执行第6步和第7步
 6. 上边工具栏[Scripts -> Resource Repackers -> ImportGraphics.csx],选择存放字体精灵的文件夹(打包文件),导入用于游戏内显示的字体
 7. 左上角[Filter by name...]输入font
 8. 在左边资源管理器,点击[code],点击[gml_GlobalScript_font_init],
