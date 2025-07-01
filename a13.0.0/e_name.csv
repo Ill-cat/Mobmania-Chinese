@@ -1,268 +1,268 @@
-3,Combo Attack
-10,Bob and Weave
-11,Momentum
-12,Blood Moon
-14,Territory
-5,Shuriken
-6,Shadow Clone
-7,Fury
-8,Substitute
-9,Work Gloves
-16,Syringe
-17,Pandemic
-26,Miasma
-15,Milo
-27,Treat
-18,Coffee
-19,Espresso
-20,Paid Time Off
-21,Productivity
-22,Overtime
-23,Tornado
-24,Ice
-25,Shock
-37,Fairy
-2,Flawless
-0,Slash
-31,Inner Power
-34,Mark
-32,Dark Domain
-33,Mai Tai
-4,Rifle
-44,High-Caliber Rounds
-45,Rate of Fire
-46,Dextrous Reload
-47,Strafe
-49,Furry Swipes
-50,Cat Nap
-51,Cat Pose
-52,Pounce
-59,Fix It Up!
-60,Old Man
-61,Inebriated
-62,Toolbelt
-63,Wifey
-64,Tipper
-65,Swift Strike
-66,Precision
-67,Advantage
-68,Dancing Blade
-69,Arrow Barrage
-70,Explosive Arrows
-71,Fire Arrows
-72,Vault
-73,Arrow Rain
-104,Command
-105,Marching Order
-106,Better Weaponry
-107,Inspiration
-108,Stand Together
-79,Explosion
-80,Combust
-81,Flame Trail
-82,Ring of Destruction
-83,Meteor Shower
-111,Turon
-112,Glaze
-113,Deflect
-114,Resist
-115,Richie
-127,Backstab
-128,Shadow Step
-129,Escape
-130,Dexterity
-131,Ambush
-133,Sharps
-134,Stapler
-135,Weightless
-136,Ragi
-137,Blade Storm
-138,Swordstorm
-139,Strike Weakness
-140,Evade
-141,Sword of Strength
-142,Summon Sword
-144,Football
-145,Cleats
-146,Tackle
-147,Linemen
-148,Dior
-158,Dual Revolvers
-159,Ricochet
-160,Flashbang
-161,Tumble
-162,Desperado
-168,Fangs
-169,Swarm
-170,Survivor
-171,Vampire
-172,Transform
-173,Drill Gun
-174,Overdrive
-175,Rocket Gun
-176,Thrusters
-177,Replicator
-178,Broad Strokes
-179,Color Theory
-180,Speed Painting
-181,Painting Boots
-182,Acrylic Armor
-183,Brandish
-184,Sword Beam
-185,Dashing Moves
-186,Almond Milk
-187,Boomer
-190,Cast
-191,Power Reel
-192,Lure
-193,Fishfinder
-194,Better Rod
-201,Chrono Gauntlet
-202,Temporal Step
-203,Time Dilation
-204,Causal Accelerator
-205,Future Vision
-206,Heavy Hitter
-207,Hotheaded
-208,Loose Change
-209,Manicure
-210,Skipping Class
-236,Smite
-237,Holy Armor
-238,Devotion
-239,Faith
-240,Divine Intervention
-54,Soda Pop
-1,Manga
-29,Cards
-13,Missiles
-28,YoYo
-30,Mines
-35,Basketball
-58,Baseball Bat
-84,Camera
-94,Soju
-95,Shooting Star
-96,Guitar
-97,Boxing Gloves
-98,Tracking Rockets
-116,Dagger
-117,Drums
-118,Petals
-124,Snowballs
-126,Hotsauce
-149,Blocks
-189,Lost Box
-197,Dense Matter
-199,Scythe
-200,Spirit Blade
-211,Katana
-212,Thunder Blade
-40,Masks
-41,Glasses
-42,Weights
-55,Dice
-38,Wine
-48,Milk
-57,Toast
-43,Sneakers
-53,Magnet
-56,Boba
-39,Elixir
-91,Turtle Shell
-93,Snowman
-36,Antimatter
-109,Trowel
-110,Balloons
-157,Piggy Bank
-188,Pet Rock
-213,Watering Can
-214,Sprinkler
-215,Bloom
-216,Fruit
-217,Haku
-218,Water Bottle
-221,Mirror
-222,Crossbow
-223,Multishot
-224,Holy Water
-225,Hunter
-226,Theatrics
-227,Capacitor
-228,Sing
-229,Encore
-230,Spotlight
-231,Playlist
-232,Bodyguards
-233,Melon
-234,Yarn
-235,Evil Eye
-219,Protein Powder
-241,Telescope
-242,Staff
-248,Cutlery
-249,Busboy
-250,Spotless
-251,Order Up
-252,On Break
-253,Blade Slash
-254,Mirror Image
-255,Shroud
-256,Sudden Strike
-257,Smoke Screen
-258,Machine Gun
-259,Blizzard
-260,Chill
-261,Crystalize
-262,Fracture
-263,Subzero
-264,Sniper
-265,Reload Mastery
-266,Lethal Shots
-267,Snare Traps
-268,Evasive Action
-269,Cue Ball
-270,Break Shot
-271,English
-272,Chalk
-273,Scratch
-274,Slice
-275,Maelstrom
-276,Conditioning
-277,Flow
-278,Leap
-279,Kunai
-280,Bowling Ball
-281,Giant's Ring
-282,Energy Drink
-283,Spiked Boots
-284,Thornplate
-285,Pillow
-286,Paper Airplane
-287,Wand
-288,Keyboard
-289,Chicken
-290,Belch
-291,Soy Garlic Sauce
-292,Chug
-293,Yuki
-294,Baseball
-295,Fastball
-296,Multi-ball
-297,Windup
-298,Sliding Catch
-299,Health Potion
-300,Lucky Cat
-301,Fairy Bell
-302,Alarm Clock
-303,D10
-304,Medicine Ball
-305,Pistol
-306,Low Profile
-307,Heartbeat Sensor
-308,Extraction
-309,Support Drone
-310,Voodoo Doll
-311,Punching Bag
-312,Rechargeable Batteries
-313,Pinwheel
+3,Combo Attack - 连招攻击
+10,Bob and Weave - 左右闪避
+11,Momentum - 动力
+12,Blood Moon - 血月
+14,Territory - 领土
+5,Shuriken - 手里剑
+6,Shadow Clone - 影分身
+7,Fury - 狂怒
+8,Substitute - 替身
+9,Work Gloves - 工作手套
+16,Syringe - 注射器
+17,Pandemic - 大流行病
+26,Miasma - 瘴气
+15,Milo - 米洛
+27,Treat - 对待
+18,Coffee - 咖啡
+19,Espresso - 浓缩咖啡
+20,Paid Time Off - 带薪休假
+21,Productivity - 生产力
+22,Overtime - 加班
+23,Tornado - 龙卷风
+24,Ice - 冰霜
+25,Shock - 电击
+37,Fairy - 仙灵
+2,Flawless - 无瑕疵
+0,Slash - 砍劈
+31,Inner Power - 内力
+34,Mark - 标记
+32,Dark Domain - 黑暗领域
+33,Mai Tai - Mai Tai
+4,Rifle - 步枪
+44,High-Caliber Rounds - 高口径弹药
+45,Rate of Fire - 射速
+46,Dextrous Reload - 快速装填
+47,Strafe - 横扫
+49,Furry Swipes - 熊猫悍击
+50,Cat Nap - 小睡
+51,Cat Pose - 猫式
+52,Pounce - 猛扑
+59,Fix It Up! - 修理它！
+60,Old Man - 老人
+61,Inebriated - 醉酒的
+62,Toolbelt - 工具带
+63,Wifey - 妻子
+64,Tipper - 赏金刃
+65,Swift Strike - 迅捷打击
+66,Precision - 精准
+67,Advantage - 优势
+68,Dancing Blade - 舞刃
+69,Arrow Barrage - 箭雨
+70,Explosive Arrows - 爆炸箭
+71,Fire Arrows - 火箭
+72,Vault - 跳跃
+73,Arrow Rain - 箭雨
+104,Command - 指令
+105,Marching Order - 行军命令
+106,Better Weaponry - 更好的武器
+107,Inspiration - 灵感
+108,Stand Together - 团结一致
+79,Explosion - 爆炸
+80,Combust - 燃烧
+81,Flame Trail - 火焰之路
+82,Ring of Destruction - 毁灭之环
+83,Meteor Shower - 流星雨
+111,Turon - 香蕉卷
+112,Glaze - 糖霜
+113,Deflect - 偏转
+114,Resist - 抵抗
+115,Richie - 理查德
+127,Backstab - 背刺
+128,Shadow Step - 暗影步
+129,Escape - 逃脱
+130,Dexterity - 灵巧
+131,Ambush - 埋伏
+133,Sharps - 尖锐物
+134,Stapler - 订书机
+135,Weightless - 无重力
+136,Ragi - Ragi
+137,Blade Storm - 刀刃风暴
+138,Swordstorm - 剑风暴
+139,Strike Weakness - 攻击弱点
+140,Evade - 躲避
+141,Sword of Strength - 力量之剑
+142,Summon Sword - 召唤剑
+144,Football - 橄榄球
+145,Cleats - 长钉鞋
+146,Tackle - 扑倒
+147,Linemen - 前锋
+148,Dior - 迪奥
+158,Dual Revolvers - 双持左轮手枪
+159,Ricochet - 弹跳
+160,Flashbang - 闪光弹
+161,Tumble - 翻滚
+162,Desperado - 亡命之徒
+168,Fangs - 獠牙
+169,Swarm - 蜂群
+170,Survivor - 幸存者
+171,Vampire - 吸血鬼
+172,Transform - 变形
+173,Drill Gun - 钻头枪
+174,Overdrive - 超速运转
+175,Rocket Gun - 火箭枪
+176,Thrusters - 推进器
+177,Replicator - 复制器
+178,Broad Strokes - 幅度大的笔划
+179,Color Theory - 色彩学
+180,Speed Painting - 快速绘画
+181,Painting Boots - 绘画靴子
+182,Acrylic Armor - 丙烯酸盔甲
+183,Brandish - 露出
+184,Sword Beam - 剑光束
+185,Dashing Moves - 冲刺动作
+186,Almond Milk - 杏仁奶
+187,Boomer - 回力标
+190,Cast - 投掷
+191,Power Reel - 强力卷轴
+192,Lure - 诱饵
+193,Fishfinder - 渔雷
+194,Better Rod - 更好的钓竿
+201,Chrono Gauntlet - 时空护臂
+202,Temporal Step - 时空步
+203,Time Dilation - 时间膨胀
+204,Causal Accelerator - 因果加速器
+205,Future Vision - 未来景象
+206,Heavy Hitter - 击球手
+207,Hotheaded - 头脑发热
+208,Loose Change - 零钱
+209,Manicure - 美甲
+210,Skipping Class - 逃课
+236,Smite - 惩击
+237,Holy Armor - 圣洁护甲
+238,Devotion - 奉献
+239,Faith - 信仰
+240,Divine Intervention - 神圣干涉
+54,Soda Pop - 苏打汽水
+1,Manga - 漫画
+29,Cards - 扑克牌
+13,Missiles - 导弹
+28,YoYo - 溜溜球
+30,Mines - 地雷
+35,Basketball - 篮球
+58,Baseball Bat - 棒球棍
+84,Camera - 相机
+94,Soju - 烧酒
+95,Shooting Star - 流星
+96,Guitar - 吉他
+97,Boxing Gloves - 拳击手套
+98,Tracking Rockets - 跟踪火箭
+116,Dagger - 匕首
+117,Drums - 鼓
+118,Petals - 花瓣
+124,Snowballs - 雪球
+126,Hotsauce - 辣酱
+149,Blocks - 积木
+189,Lost Box - 失物箱
+197,Dense Matter - 密集物质
+199,Scythe - 镰刀
+200,Spirit Blade - 精神之刃
+211,Katana - 武士刀
+212,Thunder Blade - 雷霆之刃
+40,Masks - 面具
+41,Glasses - 眼镜
+42,Weights - 哑铃
+55,Dice - 骰子
+38,Wine - 葡萄酒
+48,Milk - 牛奶
+57,Toast - 烤面包
+43,Sneakers - 运动鞋
+53,Magnet - 磁铁
+56,Boba - 波霸奶茶珍珠
+39,Elixir - 灵药
+91,Turtle Shell - 龟壳
+93,Snowman - 雪人
+36,Antimatter - 反物质
+109,Trowel - 掘子
+110,Balloons - 气球
+157,Piggy Bank - 存钱罐
+188,Pet Rock - 宠物石头
+213,Watering Can - 浇水壶
+214,Sprinkler - 喷水器
+215,Bloom - 开花
+216,Fruit - 水果
+217,Haku - 白鲸
+218,Water Bottle - 水瓶
+221,Mirror - 镜子
+222,Crossbow - 十字弩
+223,Scatter Mastery - 散射精通
+224,Focus Mastery - 集中精通
+225,Silver Bolts - 银弩箭
+226,Theatrics - 戏剧效果
+227,Capacitor - 电容器
+228,Sing - 唱歌
+229,Encore - 再演一次
+230,Spotlight - 聚光灯
+231,Playlist - 播放列表
+232,Bodyguards - 保镖
+233,Melon - 西瓜
+234,Yarn - 纱线
+235,Evil Eye - 邪恶之眼
+219,Protein Powder - 蛋白粉
+241,Telescope - 望远镜
+242,Staff - 法杖
+248,Cutlery - 餐具
+249,Busboy - 餐厅服务员
+250,Spotless - 一尘不染
+251,Order Up - 点单
+252,On Break - 休息中
+253,Blade Slash - 刀锋挥砍
+254,Mirror Image - 镜像
+255,Shroud - 掩盖
+256,Sudden Strike - 突袭
+257,Smoke Screen - 烟幕
+258,Machine Gun - 机枪
+259,Blizzard - 暴风雪
+260,Chill - 寒意
+261,Crystalize - 冰晶
+262,Fracture - 碎冰
+263,Subzero - 零度
+264,Sniper - 狙击枪
+265,Reload Mastery - 装弹精通
+266,Lethal Shots - 致命射击
+267,Snare Traps - 诱陷
+268,Evasive Action - 回避行动
+269,Cue Ball - 白球
+270,Break Shot - 间歇射击
+271,English - 英语
+272,Chalk - 粉笔
+273,Scratch - 编程猫(划掉 幸运一击
+274,Slice - 削切
+275,Maelstrom - 漩涡
+276,Conditioning - 调节
+277,Flow - 流动
+278,Leap - 跳跃
+279,Kunai - 苦无
+280,Bowling Ball - 保龄球
+281,Giant's Ring - 巨人指环
+282,Energy Drink - 能量饮料
+283,Spiked Boots - 尖刺靴
+284,Thornplate - 荆棘护甲
+285,Pillow - 枕头
+286,Paper Airplane - 纸飞机
+287,Wand - 魔杖
+288,Keyboard - 键盘
+289,Chicken - 炸鸡
+290,Belch - 饱嗝
+291,Soy Garlic Sauce - 大蒜酱油
+292,Chug - 突突
+293,Yuki - Yuki
+294,Baseball - 棒球
+295,Fastball - 速球
+296,Multi-ball - 多球
+297,Windup - 投球
+298,Sliding Catch - 滑接
+299,Health Potion - 治疗药水
+300,Lucky Cat - 招财猫
+301,Fairy Bell - 仙女铃
+302,Alarm Clock - 闹钟
+303,D10 - 十面骰
+304,Medicine Ball - 健身球
+305,Pistol - 手枪
+306,Low Profile - 低姿态
+307,Heartbeat Sensor - 心跳传感器
+308,Extraction - 紧急撤离
+309,Support Drone - 支援无人机
+310,Voodoo Doll - 巫毒娃娃
+311,Punching Bag - 沙袋
+312,Rechargeable Batteries - 充电电池
+313,Pinwheel - 风车
