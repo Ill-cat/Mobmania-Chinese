@@ -122,5 +122,8 @@ ooc
 ### 生成汉化补丁
 1. 如果你要创建汉化补丁,需要下载bsdiff文件夹里的bsdiff.exe,bspatch.exe和install.bat文件  
    1.1 感谢[bsdiff-win](https://github.com/reitowo/bsdiff-win),虽然大家好像都知道有这个东西用但我找了半天
-2. 终端运行 bsdiff/bsdiff.exe 原data.win 汉化后data.win data.patch
-3. 生成完毕后bspatch.exe+install.bat+data.patch即为一个汉化补丁
+2. 终端运行 bsdiff/bsdiff.exe 原data.win 汉化后data.win data.patch  
+   ```
+   bsdiff/bsdiff.exe 原始文件/a13.0.0.win a13.0.0/data.win data.patch
+   ```  
+4. 生成完毕后bspatch.exe+install.bat+data.patch即为一个汉化补丁
