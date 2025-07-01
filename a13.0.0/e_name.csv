@@ -10,7 +10,7 @@
 9,Work Gloves - 工作手套
 16,Syringe - 注射器
 17,Pandemic - 大流行病
-26,Miasma - 瘴气
+26,Miasma - 毒雾
 15,Milo - 米洛
 27,Treat - 对待
 18,Coffee - 咖啡
@@ -22,7 +22,7 @@
 24,Ice - 冰霜
 25,Shock - 电击
 37,Fairy - 仙灵
-2,Flawless - 无瑕疵
+2,Flawless - 无瑕
 0,Slash - 砍劈
 31,Inner Power - 内力
 34,Mark - 标记
@@ -33,11 +33,11 @@
 45,Rate of Fire - 射速
 46,Dextrous Reload - 快速装填
 47,Strafe - 横扫
-49,Furry Swipes - 熊猫悍击
+49,Furry Swipes - 毛绒连击
 50,Cat Nap - 小睡
 51,Cat Pose - 猫式
 52,Pounce - 猛扑
-59,Fix It Up! - 修理它！
+59,Fix It Up! - 修理它!
 60,Old Man - 老人
 61,Inebriated - 醉酒的
 62,Toolbelt - 工具带
@@ -82,7 +82,7 @@
 140,Evade - 躲避
 141,Sword of Strength - 力量之剑
 142,Summon Sword - 召唤剑
-144,Football - 橄榄球
+144,Football - 椭圆球
 145,Cleats - 长钉鞋
 146,Tackle - 扑倒
 147,Linemen - 前锋
@@ -92,7 +92,7 @@
 160,Flashbang - 闪光弹
 161,Tumble - 翻滚
 162,Desperado - 亡命之徒
-168,Fangs - 獠牙
+168,Fangs - 尖牙
 169,Swarm - 蜂群
 170,Survivor - 幸存者
 171,Vampire - 吸血鬼
@@ -106,7 +106,7 @@
 179,Color Theory - 色彩学
 180,Speed Painting - 快速绘画
 181,Painting Boots - 绘画靴子
-182,Acrylic Armor - 丙烯酸盔甲
+182,Acrylic Armor - 塑胶盔甲
 183,Brandish - 露出
 184,Sword Beam - 剑光束
 185,Dashing Moves - 冲刺动作
@@ -114,7 +114,7 @@
 187,Boomer - 回力标
 190,Cast - 投掷
 191,Power Reel - 强力卷轴
-192,Lure - 诱饵
+192,Lure - 钓鱼钩
 193,Fishfinder - 渔雷
 194,Better Rod - 更好的钓竿
 201,Chrono Gauntlet - 时空护臂
@@ -154,14 +154,14 @@
 149,Blocks - 积木
 189,Lost Box - 失物箱
 197,Dense Matter - 密集物质
-199,Scythe - 镰刀
+199,Scythe - 长柄割刀
 200,Spirit Blade - 精神之刃
 211,Katana - 武士刀
 212,Thunder Blade - 雷霆之刃
 40,Masks - 面具
 41,Glasses - 眼镜
 42,Weights - 哑铃
-55,Dice - 骰子
+55,Dice - 色子
 38,Wine - 葡萄酒
 48,Milk - 牛奶
 57,Toast - 烤面包
@@ -183,10 +183,10 @@
 217,Haku - 白鲸
 218,Water Bottle - 水瓶
 221,Mirror - 镜子
-222,Crossbow - 十字弩
+222,Crossbow - 十字窝弓
 223,Scatter Mastery - 散射精通
 224,Focus Mastery - 集中精通
-225,Silver Bolts - 银弩箭
+225,Silver Bolts - 银矢
 226,Theatrics - 戏剧效果
 227,Capacitor - 电容器
 228,Sing - 唱歌
@@ -227,7 +227,7 @@
 272,Chalk - 粉笔
 273,Scratch - 编程猫(划掉 幸运一击
 274,Slice - 削切
-275,Maelstrom - 漩涡
+275,Maelstrom - 乱流
 276,Conditioning - 调节
 277,Flow - 流动
 278,Leap - 跳跃
@@ -242,7 +242,7 @@
 287,Wand - 魔杖
 288,Keyboard - 键盘
 289,Chicken - 炸鸡
-290,Belch - 饱嗝
+290,Belch - 饱ge
 291,Soy Garlic Sauce - 大蒜酱油
 292,Chug - 突突
 293,Yuki - Yuki
@@ -255,7 +255,7 @@
 300,Lucky Cat - 招财猫
 301,Fairy Bell - 仙女铃
 302,Alarm Clock - 闹钟
-303,D10 - 十面骰
+303,D10 - 十面色子
 304,Medicine Ball - 健身球
 305,Pistol - 手枪
 306,Low Profile - 低姿态
