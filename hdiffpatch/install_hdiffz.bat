@@ -15,8 +15,8 @@ if not exist "file_hash.txt" (
     exit /b
 )
 
-if not exist "data.patch" (
-    echo 错误：缺少 data.patch 文件！
+if not exist "data.hdiff" (
+    echo 错误：缺少 data.hdiff 文件！
     pause
     exit /b
 )
@@ -88,7 +88,7 @@ if "%current_hash%"=="%original_hash%" (
 )
 
 @REM 验证补丁文件
-certutil -hashfile "data.patch" MD5 | find /v ":" > current_patch_hash.txt
+certutil -hashfile "data.hdiff" MD5 | find /v ":" > current_patch_hash.txt
 set /p current_patch_hash=<current_patch_hash.txt
 set "current_patch_hash=%current_patch_hash: =%"
 del current_patch_hash.txt
@@ -111,9 +111,9 @@ if "%use_backup%"=="0" (
 @REM 应用补丁（改用hpatchz，启用强制覆盖）
 echo 正在应用汉化补丁...
 if "%use_backup%"=="1" (
-    hpatchz.exe -f "data.win.bak" "data.patch" "data.win"
+    hpatchz.exe -f "data.win.bak" "data.hdiff" "data.win"
 ) else (
-    hpatchz.exe -f "data.win" "data.patch" "data.win"
+    hpatchz.exe -f "data.win" "data.hdiff" "data.win"
 )
 
 @REM 验证结果
