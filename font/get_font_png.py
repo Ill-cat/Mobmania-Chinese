@@ -1,6 +1,7 @@
 import os
 import json5
 from PIL import Image
+import shutil  # 新增导入
 
 # 1. 读取 .yy 文件中的 glyphs 数据
 with open("s_font_zh.yy", "r", encoding="utf-8") as f:
@@ -12,6 +13,10 @@ img = Image.open("s_font_zh.png")
 
 # 3. 创建输出目录（修改为/打包文件/sprite）
 output_dir = os.path.join("打包文件", "sprite")
+
+# 清空目标文件夹（如果存在）
+if os.path.exists(output_dir):
+    shutil.rmtree(output_dir)
 os.makedirs(output_dir, exist_ok=True)
 
 # 4. 遍历 glyphs，切割每个字符并保存（按顺序编号）
