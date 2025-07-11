@@ -13,5 +13,7 @@ char_codes = sorted(char_codes)
 # 3. 转换为字符并生成 mapstring
 mapstring = "".join([chr(code) for code in char_codes])
 
-# 4. 输出结果（可直接复制）
-print("var mapstring = \"{}\";".format(mapstring))
+# 4. 写入输出文件
+with open("mapstring_output.txt", "w", encoding="utf-8") as f:
+    f.write("var mapstring = \"{}\";".format(mapstring))
+print("\n\n结果已写入 mapstring_output.txt 文件")
