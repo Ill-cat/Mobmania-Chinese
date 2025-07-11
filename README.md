@@ -167,15 +167,14 @@ python get_mapstring.py
 
 
 ### 使用HDiffOatch
-[HDiffPatch](https://github.com/sisong/HDiffPatch/tree/master)
-0. 需要下载`hdiffpatch`文件夹,确认有`hdiffz.exe`,`hpatchz.exe`和`Install_hdiffz.bat`,`Create_hdiffz_patch.bat`文件
-   - 比较新,被deepseek推去用了,虽然不压缩补丁大一点,但生成速度快,也可以解决`bsdiff`一些比较莫名其妙的问题  
+[HDiffPatch](https://github.com/sisong/HDiffPatch/tree/master),  比较新,被deepseek推去用了,虽然不压缩补丁大一点,但生成速度快,也可以解决`bsdiff`一些比较莫名其妙的问题  
+1. 需要下载`hdiffpatch`文件夹,确认有`hdiffz.exe`,`hpatchz.exe`和`Install_hdiffz.bat`,`Create_hdiffz_patch.bat`文件
    - 其实步骤和`bsdiff`生成补丁方式一样,我也不知道我为什么要换个名字  
-1. 在`hdiffpatch`目录下运行终端[`右键` → `在终端中打开`]  
-2. 依次拖入`Create_hdiffz_patch.bat`,`原始data.win`,`汉化后data.win`,各文件之间留有空格 
+2. 在`hdiffpatch`目录下运行终端[`右键` → `在终端中打开`]  
+3. 依次拖入`Create_hdiffz_patch.bat`,`原始data.win`,`汉化后data.win`,各文件之间留有空格 
    ```
    Create_hdiffz_patch.bat 原始data.win 汉化后data.win
    ```  
-3. 运行,将生成`file_hash.txt`和`data.hdiff`文件  
+4. 运行,将生成`file_hash.txt`和`data.hdiff`文件  
 - `file_hash.txt`用于确认文件汉化进度和补丁可用性  
-4. `hpatchz.exe`,`Install_hdiffz.bat`,`data.hdiff`,`file_hash.txt`压缩后即为一个汉化补丁 
+1. `hpatchz.exe`,`Install_hdiffz.bat`,`data.hdiff`,`file_hash.txt`压缩后即为一个汉化补丁 
