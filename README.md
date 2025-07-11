@@ -155,7 +155,6 @@ python get_mapstring.py
 ### 使用bsdiff
 0. 如果你要创建汉化补丁,需要下载`bsdiff`文件夹,确认有`bsdiff.exe`,`bspatch.exe`和`Install.bat`,`Create_patch.bat`文件  
     - 感谢[bsdiff-win](https://github.com/reitowo/bsdiff-win),虽然大家好像都知道有这个东西用但我找了半天  
-   - 
 1. 在`bsdiff`目录下运行终端[`右键` → `在终端中打开`]  
 2. 依次拖入`Create_patch.bat`,`原始data.win`,`汉化后data.win`,各文件之间留有空格 
    ```
@@ -163,7 +162,7 @@ python get_mapstring.py
    ```  
 3. 运行,将生成`file_hash.txt`和`data.patch`文件  
 - `file_hash.txt`用于确认文件汉化进度和补丁可用性  
-4. `bspatch.exe`,`install.bat`,`data.patch`,`file_hash.txt`压缩后即为一个汉化补丁  
+1. `bspatch.exe`,`install.bat`,`data.patch`,`file_hash.txt`压缩后即为一个汉化补丁  
 
 
 ### 使用HDiffOatch
@@ -177,4 +176,4 @@ python get_mapstring.py
    ```  
 4. 运行,将生成`file_hash.txt`和`data.hdiff`文件  
 - `file_hash.txt`用于确认文件汉化进度和补丁可用性  
-1. `hpatchz.exe`,`Install_hdiffz.bat`,`data.hdiff`,`file_hash.txt`压缩后即为一个汉化补丁 
+5. `hpatchz.exe`,`Install_hdiffz.bat`,`data.hdiff`,`file_hash.txt`压缩后即为一个汉化补丁 
