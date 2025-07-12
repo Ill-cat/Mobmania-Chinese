@@ -28,7 +28,7 @@ if not exist "%modified_file%" (
 
 @REM 生成补丁文件（改用hdiffz，启用压缩）
 echo 正在创建补丁文件...
-hdiffz.exe -f "%original_file%" "%modified_file%" data.patch
+hdiffz.exe -f "%original_file%" "%modified_file%" data.hdiff
 if errorlevel 1 (
     echo 补丁创建失败！
     pause
@@ -43,7 +43,7 @@ for /f "skip=1 tokens=1" %%a in ('certutil -hashfile "%original_file%" MD5') do 
 for /f "skip=1 tokens=1" %%a in ('certutil -hashfile "%modified_file%" MD5') do (
     if not "%%a"=="CertUtil:" set "modified_hash=%%a"
 )
-for /f "skip=1 tokens=1" %%a in ('certutil -hashfile "data.patch" MD5') do (
+for /f "skip=1 tokens=1" %%a in ('certutil -hashfile "data.hdiff" MD5') do (
     if not "%%a"=="CertUtil:" set "patch_hash=%%a"
 )
 
@@ -73,6 +73,6 @@ echo %patch_hash%
 
 echo.
 echo 补丁创建完成！
-echo 生成的文件：data.patch 和 file_hash.txt
+echo 生成的文件：data.hdiff 和 file_hash.txt
 echo 哈希值: %original_hash%,%modified_hash%,%patch_hash%
 pause
