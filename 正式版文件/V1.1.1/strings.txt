@@ -2242,7 +2242,7 @@
         "targets",
         "nTargets",
         "target",
-        "It's over!",
+        "该结束了!",
         "boss_ninja_hunt",
         "boss_ninja",
         "boss_ninjastar",
