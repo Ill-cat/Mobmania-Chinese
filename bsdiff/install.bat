@@ -63,14 +63,15 @@ if "%current_hash%"=="%original_hash%" (
 ) else (
     echo 警告：data.win 不是原始版本，检查备份文件...
     if exist "data.win.bak" (
+        setlocal enabledelayedexpansion
         certutil -hashfile "data.win.bak" MD5 | find /v ":" > backup_hash.txt
         set /p backup_hash=<backup_hash.txt
         set "backup_hash=%backup_hash: =%"
         del backup_hash.txt
         
-        echo [调试] 备份文件哈希: %backup_hash%
+        echo [调试] 备份文件哈希: !backup_hash!
         
-        if "%backup_hash%"=="%original_hash%" (
+        if "!backup_hash!"=="%original_hash%" (
             echo 使用备份文件 data.win.bak 作为源文件
             set "valid_source=1"
             set "use_backup=1"
