@@ -7471,7 +7471,7 @@
         "编辑{GOLD}徽章{/GOLD}",
         "编辑{GOLD}卡组{/GOLD}",
         "编辑{GOLD}牵绊{/GOLD}",
-        "{GOLD}商店{/GOLD}",
+        "进入{GOLD}商店{/GOLD}",
         "酿造{GOLD}药水{/GOLD}",
         "交谈",
         "ppy",
