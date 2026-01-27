@@ -18,11 +18,11 @@
 20,Paid Time Off
 21,Productivity
 22,Overtime
-23,Tornado
-24,Ice
-25,Shock
+23,Folding Fan
+24,Thin Ice
+25,Stunner
 37,Fairy
-2,Flawless
+2,Glow Up
 0,Slash
 31,Inner Power
 34,Mark
@@ -48,7 +48,7 @@
 67,Advantage
 68,Dancing Blade
 69,Arrow Barrage
-70,Explosive Arrows
+70,Bomb Arrows
 71,Fire Arrows
 72,Vault
 73,Arrow Rain
@@ -106,7 +106,7 @@
 179,Color Theory
 180,Speed Painting
 181,Painting Boots
-182,Acrylic Armor
+182,Painting Apron
 183,Brandish
 184,Sword Beam
 185,Dashing Moves
@@ -266,3 +266,8 @@
 311,Punching Bag
 312,Rechargeable Batteries
 313,Pinwheel
+314,Talons
+315,Frenzy
+316,Caw
+317,Flock
+318,Fly
