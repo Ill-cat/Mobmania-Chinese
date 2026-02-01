@@ -80,13 +80,13 @@ ooc
 需要工具:  
 - GameMaker(使用时的版本是v2024.8.1.171,下同)
 - Python3(Python 3.10.7)
-- UndertaleModTool(v0.8.1.1)
+- UndertaleModTool(v0.8.4.1)
   [指路,非常好用](https://github.com/UnderminersTeam/UndertaleModTool)
 
 ## 获取游戏内文本并汉化
 1. 到文件目录`X:\steam\steamapps\common\Mobmania`  
 2. 用`UndertaleModTool`打开`data.win`文件  
-3. 上边工具栏[`Scripts` → `Community Scripts` → `ExportAllStringsBetter.csx`],导出所有的游戏内文本
+3. 上边工具栏[`Scripts` → `Resource Exporters` → `ExportAllStringsJSON.csx`],导出所有的游戏内文本
 4. 用顺手的文本编辑器翻译,不会英语就用机翻还是什么之类的方法把疑似是游戏文本的文本汉化(不要汉化到疑似游戏变量或者函数的东西,比如__开头或是驼峰命名),注意不要多加或者多删了双引号逗号之类的  
     - 或者你可以进游戏,看到什么文本就在文本编辑器`Ctrl+F`搜一下
 5. 至此你就得到了汉化后的游戏文本文件  
@@ -119,7 +119,7 @@ python get_font_png.py
     - 不想做这一步...额,文件有点多,不过也可以在`font`文件夹里下到
 
 ## 正式汉化游戏
-1. 下载仓库里`font文`件夹里的`get_mapstring.py`文件  
+1. 下载仓库里`font`文件夹里的`get_mapstring.py`文件  
    - 如果你改了字体名称记得里面的`s_font_zh`全改掉  
 2. 把`创建游戏内显示的中文字体`取得的`yy文件`还有这次的`py文件`放在同一个文件夹
 3. 进文件夹运行py文件  
@@ -129,11 +129,11 @@ python get_mapstring.py
    - 这一步会根据yy文件按顺序生成字符串,生成于`mapstring_output.txt`文件里  
    - 或者你就用font文件夹里的font_init.js文件  
 4. 用`UndertaleModTool`打开`data.win`文件
-5. 上边工具栏[`Scripts` → `Community Scripts` → `ImportAllStringsBetter.csx`],选择你汉化后的游戏文本文件,导入  
+5. 上边工具栏[`Scripts` → `Resource Importers` → `ImportAllStringsJSON.csx`],选择你汉化后的游戏文本文件,导入  
    - **如果你用的是我的文件,先执行第6步和第7步**
-6. 上边工具栏[`Scripts` → `Resource Repackers` → `ImportGraphics.csx`],选择存放字体精灵的文件夹(打包文件),导入用于游戏内显示的字体
+6. 上边工具栏[`Scripts` → `Resource Importers` → `ImportGraphics.csx`],选择存放字体精灵的文件夹(打包文件),导入用于游戏内显示的字体
 7. 左上角[`Filter by name...`]输入`font`
-8. 在左边资源管理器,点击[`code`],点击[`gml_GlobalScript_font_init`],
+   在左边资源管理器,点击[`code`],点击[`gml_GlobalScript_font_init`],
    把
    ```
    var mapstring = "ABCDEFGHIJKLMNOPQRSTUVWXYZ !'#$%&'()*+,-./:;<=>?@[]^_`{}'0123456789abcdefghijklmnopqrstuvwxyz";  
@@ -147,8 +147,8 @@ python get_mapstring.py
    ```  
    - 如果你用了其他的字体文件名记得把`s_font_zh`改掉  
    - 如果你用了其他的字体,或者使用了其他的字体范围,不要用`font_init.js`改
-9.  至此,保存一下游戏就算汉化完了,可以进游戏看一下效果  
-    - 这里再用[`Scripts` → `Community Scripts` → `ExportAllStringsBetter.csx`]导出一下就和我用的`String.txt`文件一样了
+8.  至此,保存一下游戏就算汉化完了,可以进游戏看一下效果  
+    - 这里再用[`Scripts` → `Resource Exporters` → `ExportAllStringsJSON.csx`]导出一下就和我用的`String.txt`文件一样了
 
 ## 生成汉化补丁
 
