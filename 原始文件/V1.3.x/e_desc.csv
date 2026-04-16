@@ -212,8 +212,8 @@
 104,5,+2 soldiers (16).
 104,6,+4 soldiers (20).
 105,0,Soldiers move to the command point 30% faster.
-105,1,+20% soldier move speed (+40%).
-105,2,+20% soldier move speed (+50%).
+105,1,+10% soldier move speed (+40%).
+105,2,+10% soldier move speed (+50%).
 106,0,+20 soldier damage (40).
 106,1,+20 soldier damage (60).
 106,2,+20 soldier damage (80).
@@ -336,7 +336,7 @@
 147,2,+1 lineman (3).
 148,0,Spawn Dior that collects XP.
 148,1,+15% move speed (+15%).
-148,2,+30% move speed (+30%).
+148,2,+15% move speed (+30%).
 158,0,Shoot 12 bullets that deal 100 damage and ricochet (2x) up to 45 degrees (2 attack speed) (2.5s cooldown).
 158,1,+100 damage (200).
 158,2,+1 attack speed (3).
@@ -1083,7 +1083,7 @@
 292,2,+1 max use (3).
 293,0,Spawn Yuki that collects chicken and XP (16px).
 293,1,+15% Yuki move speed (+15%).
-293,2,+30% Yuki move speed (+30%).
+293,2,+15% Yuki move speed (+30%).
 294,0,Throw a baseball that deals 100 damage in an area and becomes a fly ball. -0.2s cooldown upon picking up a fly ball. (3s cooldown).
 294,1,+100 damage (200).
 294,2,+25% size.
